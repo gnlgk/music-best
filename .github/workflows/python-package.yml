@@ -49,8 +49,8 @@ jobs:
 
     - name: commits
       run : |
-        git config --global user.email "webstupids@gmail.com"
-        git config --global user.name "webstoryboy" 
+        git config --global user.email "gnlgk@gmail.com"
+        git config --global user.name "gnlgk" 
         git add billboard/billboard100_*.json
         git add bugs/bugs100_*.json
         git add melon/melon100_*.json
