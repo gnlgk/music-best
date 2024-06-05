@@ -29,17 +29,17 @@
     },
     {
         "rank": "5",
-        "title": "고민중독",
-        "artist": "QWER",
-        "imageURL": "https://cdn.music-flo.com/image/v2/album/081/584/23/04/423584081_66052d8a_s.jpg?1711615372482/dims/resize/140x140/quality/90",
-        "album": "1st Mini Album 'MANITO'"
-    },
-    {
-        "rank": "6",
         "title": "SPOT! (feat. JENNIE)",
         "artist": "지코 (ZICO)",
         "imageURL": "https://cdn.music-flo.com/image/v2/album/913/459/24/04/424459913_662ae815_o.jpg?1714087958457/dims/resize/140x140/quality/90",
         "album": "SPOT!"
+    },
+    {
+        "rank": "6",
+        "title": "고민중독",
+        "artist": "QWER",
+        "imageURL": "https://cdn.music-flo.com/image/v2/album/081/584/23/04/423584081_66052d8a_s.jpg?1711615372482/dims/resize/140x140/quality/90",
+        "album": "1st Mini Album 'MANITO'"
     },
     {
         "rank": "7",
@@ -211,10 +211,10 @@
     },
     {
         "rank": "31",
-        "title": "보금자리",
-        "artist": "임영웅",
+        "title": "ETA",
+        "artist": "NewJeans",
         "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-        "album": "IM HERO"
+        "album": "NewJeans 2nd EP 'Get Up'"
     },
     {
         "rank": "32",
@@ -225,10 +225,10 @@
     },
     {
         "rank": "33",
-        "title": "ETA",
-        "artist": "NewJeans",
+        "title": "보금자리",
+        "artist": "임영웅",
         "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-        "album": "NewJeans 2nd EP 'Get Up'"
+        "album": "IM HERO"
     },
     {
         "rank": "34",
@@ -379,17 +379,17 @@
     },
     {
         "rank": "55",
-        "title": "Midas Touch",
-        "artist": "KISS OF LIFE",
-        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-        "album": "Midas Touch"
-    },
-    {
-        "rank": "56",
         "title": "Spicy",
         "artist": "aespa",
         "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "album": "MY WORLD - The 3rd Mini Album"
+    },
+    {
+        "rank": "56",
+        "title": "Midas Touch",
+        "artist": "KISS OF LIFE",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "Midas Touch"
     },
     {
         "rank": "57",
@@ -407,17 +407,17 @@
     },
     {
         "rank": "59",
-        "title": "슬픈 초대장",
-        "artist": "순순희 (지환)",
-        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-        "album": "슬픈 초대장"
-    },
-    {
-        "rank": "60",
         "title": "너의 모든 순간",
         "artist": "성시경",
         "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "album": "별에서 온 그대 (SBS 수목드라마) OST - Part.7"
+    },
+    {
+        "rank": "60",
+        "title": "After LIKE",
+        "artist": "IVE (아이브)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "After LIKE"
     },
     {
         "rank": "61",
@@ -428,10 +428,10 @@
     },
     {
         "rank": "62",
-        "title": "After LIKE",
-        "artist": "IVE (아이브)",
+        "title": "슬픈 초대장",
+        "artist": "순순희 (지환)",
         "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-        "album": "After LIKE"
+        "album": "슬픈 초대장"
     },
     {
         "rank": "63",
@@ -442,108 +442,108 @@
     },
     {
         "rank": "64",
-        "title": "Discord",
-        "artist": "QWER",
-        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-        "album": "1st Single Album 'Harmony from Discord'"
-    },
-    {
-        "rank": "65",
         "title": "심(心)",
         "artist": "DK(디셈버)",
         "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "album": "심(心)"
     },
     {
-        "rank": "66",
-        "title": "Star",
-        "artist": "엔플라잉 (N.Flying)",
-        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-        "album": "선재 업고 튀어 OST Part 2"
-    },
-    {
-        "rank": "67",
+        "rank": "65",
         "title": "LOVE DIVE",
         "artist": "IVE (아이브)",
         "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "album": "LOVE DIVE"
     },
     {
-        "rank": "68",
-        "title": "인사",
-        "artist": "범진",
+        "rank": "66",
+        "title": "Discord",
+        "artist": "QWER",
         "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-        "album": "인사"
+        "album": "1st Single Album 'Harmony from Discord'"
     },
     {
-        "rank": "69",
+        "rank": "67",
+        "title": "Star",
+        "artist": "엔플라잉 (N.Flying)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "선재 업고 튀어 OST Part 2"
+    },
+    {
+        "rank": "68",
         "title": "MANIAC",
         "artist": "VIVIZ (비비지)",
         "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "album": "The 4th Mini Album 'VERSUS'"
     },
     {
+        "rank": "69",
+        "title": "인사",
+        "artist": "범진",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "인사"
+    },
+    {
         "rank": "70",
-        "title": "Blue Moon",
-        "artist": "엔플라잉 (N.Flying)",
-        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-        "album": "Once in a BLUE MOON"
-    },
-    {
-        "rank": "71",
-        "title": "빛이 나는 사람",
-        "artist": "김호중",
-        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-        "album": "빛이 나는 사람"
-    },
-    {
-        "rank": "72",
         "title": "꿈",
         "artist": "태연 (TAEYEON)",
         "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "album": "웰컴투 삼달리 OST Part.3"
     },
     {
-        "rank": "73",
-        "title": "You & I",
-        "artist": "이클립스 (ECLIPSE)",
+        "rank": "71",
+        "title": "Blue Moon",
+        "artist": "엔플라잉 (N.Flying)",
         "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-        "album": "선재 업고 튀어 OST Part 1"
+        "album": "Once in a BLUE MOON"
     },
     {
-        "rank": "74",
+        "rank": "72",
         "title": "모든 날, 모든 순간 (Every day, Every Moment)",
         "artist": "폴킴",
         "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "album": "'키스 먼저 할까요?' OST Part.3"
     },
     {
-        "rank": "75",
-        "title": "그대... 떠나도",
+        "rank": "73",
+        "title": "빛이 나는 사람",
         "artist": "김호중",
         "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-        "album": "A LIFE(세상)"
+        "album": "빛이 나는 사람"
     },
     {
-        "rank": "76",
+        "rank": "74",
+        "title": "You & I",
+        "artist": "이클립스 (ECLIPSE)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "선재 업고 튀어 OST Part 1"
+    },
+    {
+        "rank": "75",
         "title": "I Don’t Think That I Like Her",
         "artist": "Charlie Puth",
         "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "album": "CHARLIE"
     },
     {
+        "rank": "76",
+        "title": "Super Lady",
+        "artist": "(여자)아이들",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "2"
+    },
+    {
         "rank": "77",
-        "title": "쏜살",
+        "title": "그대... 떠나도",
         "artist": "김호중",
         "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "album": "A LIFE(세상)"
     },
     {
         "rank": "78",
-        "title": "Super Lady",
-        "artist": "(여자)아이들",
+        "title": "Seven (feat. Latto) - Clean Ver.",
+        "artist": "정국",
         "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-        "album": "2"
+        "album": "Seven (feat. Latto) - Clean Ver."
     },
     {
         "rank": "79",
@@ -554,87 +554,87 @@
     },
     {
         "rank": "80",
-        "title": "Seven (feat. Latto) - Clean Ver.",
-        "artist": "정국",
-        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-        "album": "Seven (feat. Latto) - Clean Ver."
-    },
-    {
-        "rank": "81",
-        "title": "함께 가 줄래",
-        "artist": "김호중",
-        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-        "album": "A LIFE(세상)"
-    },
-    {
-        "rank": "82",
-        "title": "바람이 부는 날엔",
-        "artist": "김호중",
-        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-        "album": "A LIFE(세상)"
-    },
-    {
-        "rank": "83",
         "title": "Kitsch",
         "artist": "IVE (아이브)",
         "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "album": "I've IVE"
     },
     {
-        "rank": "84",
+        "rank": "81",
         "title": "멈춰줘",
         "artist": "헤이즈 (Heize)",
         "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "album": "눈물의 여왕 OST Part.3"
     },
     {
-        "rank": "85",
+        "rank": "82",
+        "title": "쏜살",
+        "artist": "김호중",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "A LIFE(세상)"
+    },
+    {
+        "rank": "83",
         "title": "Wife",
         "artist": "(여자)아이들",
         "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "album": "2"
     },
     {
-        "rank": "86",
+        "rank": "84",
         "title": "사건의 지평선",
         "artist": "윤하",
         "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "album": "YOUNHA 6th Album Repackage 'END THEORY : Final Edition'"
     },
     {
-        "rank": "87",
-        "title": "청춘찬가",
-        "artist": "세븐틴 (SEVENTEEN)",
-        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-        "album": "SEVENTEEN BEST ALBUM ‘17 IS RIGHT HERE'"
-    },
-    {
-        "rank": "88",
-        "title": "봄날에",
+        "rank": "85",
+        "title": "함께 가 줄래",
         "artist": "김호중",
         "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "album": "A LIFE(세상)"
     },
     {
-        "rank": "89",
+        "rank": "86",
+        "title": "바람이 부는 날엔",
+        "artist": "김호중",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "A LIFE(세상)"
+    },
+    {
+        "rank": "87",
         "title": "건물 사이에 피어난 장미 (Rose Blossom)",
         "artist": "H1-KEY (하이키)",
         "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "album": "H1-KEY 1st Mini Album [Rose Blossom]"
     },
     {
-        "rank": "90",
-        "title": "별 헤는 밤",
+        "rank": "88",
+        "title": "Baddie",
+        "artist": "IVE (아이브)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "I'VE MINE"
+    },
+    {
+        "rank": "89",
+        "title": "봄날에",
         "artist": "김호중",
         "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "album": "A LIFE(세상)"
     },
     {
-        "rank": "91",
-        "title": "Baddie",
-        "artist": "IVE (아이브)",
+        "rank": "90",
+        "title": "청춘찬가",
+        "artist": "세븐틴 (SEVENTEEN)",
         "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-        "album": "I'VE MINE"
+        "album": "SEVENTEEN BEST ALBUM ‘17 IS RIGHT HERE'"
+    },
+    {
+        "rank": "91",
+        "title": "별 헤는 밤",
+        "artist": "김호중",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "A LIFE(세상)"
     },
     {
         "rank": "92",
@@ -659,24 +659,24 @@
     },
     {
         "rank": "95",
-        "title": "꿈결같아서",
-        "artist": "민니 ((여자)아이들)",
-        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-        "album": "선재 업고 튀어 OST Part 3"
-    },
-    {
-        "rank": "96",
         "title": "취중고백",
         "artist": "김민석",
         "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "album": "취중고백"
     },
     {
-        "rank": "97",
+        "rank": "96",
         "title": "손오공",
         "artist": "세븐틴 (SEVENTEEN)",
         "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "album": "SEVENTEEN 10th Mini Album ‘FML'"
+    },
+    {
+        "rank": "97",
+        "title": "꿈결같아서",
+        "artist": "민니 ((여자)아이들)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "선재 업고 튀어 OST Part 3"
     },
     {
         "rank": "98",
@@ -687,16 +687,16 @@
     },
     {
         "rank": "99",
-        "title": "파이팅 해야지 (Feat. 이영지)",
-        "artist": "부석순 (SEVENTEEN)",
-        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-        "album": "부석순 1st Single Album 'SECOND WIND'"
-    },
-    {
-        "rank": "100",
         "title": "희재",
         "artist": "성시경",
         "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
         "album": "국화꽃 향기: 희재 (Scent Of Love)"
+    },
+    {
+        "rank": "100",
+        "title": "파이팅 해야지 (Feat. 이영지)",
+        "artist": "부석순 (SEVENTEEN)",
+        "imageURL": "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "album": "부석순 1st Single Album 'SECOND WIND'"
     }
 ]
